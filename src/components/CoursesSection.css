@@ -1,0 +1,29 @@
+.courses {
+  padding: 40px;
+  background-color: #f9f9f9;
+  text-align: center;
+}
+
+.course-list {
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+}
+
+.course-card {
+  background-color: #fff;
+  padding: 20px;
+  border-radius: 8px;
+  width: 300px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.course-card img {
+  width: 100%;
+  border-radius: 8px;
+}
+
+.course-card h3 {
+  margin: 15px 0;
+  color: #3b5998;
+}
