@@ -1,13 +1,1 @@
-/* Slider container */
-.slider-container {
-  width: 100%;
-  margin: auto;
-  overflow: hidden;
-}
 
-/* Images in the slider */
-.slider-image {
-  width: 100%;
-  height: 600px; /* Adjust as per design */
-  object-fit: cover;
-}
